@@ -1,0 +1,27 @@
+{
+  "name": "learning-three",
+  "version": "0.0.0",
+  "authors": [
+    "egghead <thomas.omans@gmail.com>"
+  ],
+  "description": "just a project to learn three.js",
+  "main": "app.js",
+  "keywords": [
+    "learning"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/eggsby/learning-three",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "requirejs": "~2.1.13",
+    "threejs": "*"
+  }
+}
